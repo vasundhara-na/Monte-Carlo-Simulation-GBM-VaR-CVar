@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulation-GBM-VaR-CVar
+# Monte Carlo Simulation GBM with VaR/CVaR
 
 ## Overview
 This project implements a Monte Carlo Simulation Framework to model the future price behaviour of an equity index (VOO) using Geomwtric Brownian Motion (GBM).
